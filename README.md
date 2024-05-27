@@ -1,26 +1,11 @@
-README
-Files in repository VBA-challenge
-getOutput.bas  code to get output
-Screenshot_1.jpg screenshot of the output
+Module 2 - VBA Challenge
+Task - Use VBA scripting to analyse generated stock market data. 
 
+The result should match the following image:
+![image](https://github.com/Leena-680/VBA-challenge/assets/10916160/66c9b5b7-c48f-4c62-9b19-86a374178830)
 
-   Psuedo code for getOutput.bas
-    For each worksheet repeat following
-        ' get unique tickers
-        
-        For each ticket repeat following
-           'Calculate following values for each ticker
-           'Yearly change 
-           'Percent change
-           'Total stock volume
-         end loop
+Bonus
+Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and"Greatest total volume". The solution should match the following image:
 
-         'Output to cell, apply conditional formatting to cells 
-    
-      end loop
-   
-      ' get number of rows in new summary table
-      'Loop through summary table to find highest % increase, decrease and total volume.
-   
-    End loop
+![image](https://github.com/Leena-680/VBA-challenge/assets/10916160/0eaa3aae-dbea-4beb-9d88-14cc5dda85e6)
 
